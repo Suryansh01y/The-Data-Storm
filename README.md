@@ -10,7 +10,12 @@ The Data Hub is a RESTful API built using Node.js, Express.js, MongoDB, and Mong
 - Mongoose
 - Postman
 - dotenv
+ 
+## Links
 
+Live:- https://the-data-storm-7j9f.onrender.com/
+
+Video:- https://drive.google.com/file/d/1u7qFXvATzFr7tDi-N6FqBC6arjw5nkW7/view?usp=drive_link
 
 ## Features
 - Create new posts using a POST request.
